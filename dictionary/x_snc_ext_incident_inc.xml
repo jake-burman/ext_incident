@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="incident" label="Incident Extension" max_length="40" name="x_snc_ext_incident_inc" sizeclass="2" type="collection"/>
+</database>

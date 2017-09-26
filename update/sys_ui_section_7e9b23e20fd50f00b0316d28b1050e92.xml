@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Situation Appraisal" section_id="7e9b23e20fd50f00b0316d28b1050e92" sys_domain="global" table="x_snc_ext_incident_inc" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>83a8249aa7a12000743865d288acf4a0</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_id>3a9b23e20fd50f00b0316d28b1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Appraisal" display_value="Situation Appraisal" name="x_snc_ext_incident_inc" sys_domain="global" view="Default view">7e9b23e20fd50f00b0316d28b1050e92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>situation_appraisal</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_id>ba9b23e20fd50f00b0316d28b1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Appraisal" display_value="Situation Appraisal" name="x_snc_ext_incident_inc" sys_domain="global" view="Default view">7e9b23e20fd50f00b0316d28b1050e92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_impact</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_id>3e9b23e20fd50f00b0316d28b1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Appraisal" display_value="Situation Appraisal" name="x_snc_ext_incident_inc" sys_domain="global" view="Default view">7e9b23e20fd50f00b0316d28b1050e92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>future_impact</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_id>be9b23e20fd50f00b0316d28b1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Appraisal" display_value="Situation Appraisal" name="x_snc_ext_incident_inc" sys_domain="global" view="Default view">7e9b23e20fd50f00b0316d28b1050e92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>timeframe</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_id>329b23e20fd50f00b0316d28b1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Situation Appraisal" display_value="Situation Appraisal" name="x_snc_ext_incident_inc" sys_domain="global" view="Default view">7e9b23e20fd50f00b0316d28b1050e92</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Situation Appraisal</caption>
+            <header>false</header>
+            <name>x_snc_ext_incident_inc</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e9b23e20fd50f00b0316d28b1050e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Situation Appraisal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Incident Extension" source="x_snc_ext_incident">2ddd0caa0f1dcb00b0316d28b1050e26</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Incident Extension">2ddd0caa0f1dcb00b0316d28b1050e26</sys_scope>
+            <sys_update_name>sys_ui_section_7e9b23e20fd50f00b0316d28b1050e92</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

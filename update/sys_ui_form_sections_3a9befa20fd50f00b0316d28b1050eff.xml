@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3a9befa20fd50f00b0316d28b1050eff" sys_domain="global" table="x_snc_ext_incident_inc" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e9b23e20fd50f00b0316d28b1050e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ext_incident_inc" name="x_snc_ext_incident_inc" sys_domain="global" view="412795810a25810200b1caed39d4d16e">3a9befa20fd50f00b0316d28b1050eff</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_ext_incident_inc" sys_domain="global" view="412795810a25810200b1caed39d4d16e">b29b23e20fd50f00b0316d28b1050e8e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a9b23e20fd50f00b0316d28b1050e8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_ext_incident_inc" name="x_snc_ext_incident_inc" sys_domain="global" view="412795810a25810200b1caed39d4d16e">3a9befa20fd50f00b0316d28b1050eff</sys_ui_form>
+            <sys_ui_section caption="Vendor" display_value="Vendor" name="x_snc_ext_incident_inc" sys_domain="global" view="412795810a25810200b1caed39d4d16e">f69b23e20fd50f00b0316d28b1050e8b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_ext_incident_inc</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-22 17:06:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a9befa20fd50f00b0316d28b1050eff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_ext_incident_inc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Incident Extension" source="x_snc_ext_incident">2ddd0caa0f1dcb00b0316d28b1050e26</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Incident Extension">2ddd0caa0f1dcb00b0316d28b1050e26</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3a9befa20fd50f00b0316d28b1050eff</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-22 17:06:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Metrics" name="Metrics">412795810a25810200b1caed39d4d16e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
